@@ -50,7 +50,7 @@ streamlit run emoji_flipper.py
 ## File Structure
 ```bash
 emoji-flipper-game/
-├── emoji-flipper.py  # Main Streamlit app
+├── emoji_flipper.py  # Main Streamlit app
 ├── README.md         # This file
 └── requirements.txt  # (Optional) Python dependencies
 ```
