@@ -44,8 +44,8 @@ pip install streamlit==1.45.1
 ```bash
 streamlit run emoji_flipper.py
 ```
-## 🎈 Try this game Live
-| ![Click to Play Game Now](https://cid-emoji-flipper-game.streamlit.app) |
+## 🎮 Play this game Live
+| [Click to Play Game Now](https://cid-emoji-flipper-game.streamlit.app) |
 ## Requirements
 - Python 3.7+
 - Streamlit (Install via pip install streamlit)
