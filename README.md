@@ -65,7 +65,7 @@ emoji-flipper-game/
 - Unicode emojis
 - 
 ## 📃 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Manav1918/Emoji-Flipper-Game/blob/main/LICENSE).
 
 ## 💡 Future Improvements
 - Difficulty levels (easy, medium, hard)
