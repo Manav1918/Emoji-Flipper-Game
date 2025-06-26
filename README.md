@@ -42,7 +42,7 @@ pip install streamlit==1.45.1
 ```
 ## How to Run
 ```bash
-streamlit run emoji-flipper.py
+streamlit run emoji_flipper.py
 ```
 ## Requirements
 - Python 3.7+
@@ -50,7 +50,7 @@ streamlit run emoji-flipper.py
 ## File Structure
 ```bash
 emoji-flipper-game/
-├── app.py            # Main Streamlit app
+├── emoji-flipper.py  # Main Streamlit app
 ├── README.md         # This file
 └── requirements.txt  # (Optional) Python dependencies
 ```
